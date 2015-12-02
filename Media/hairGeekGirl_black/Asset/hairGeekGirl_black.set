@@ -1,0 +1,19 @@
+// Created with FBXConvert.exe: Mon Nov 30 12:09:35 2015
+[node 0]
+type = model
+name = hairGeekGirl_black
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = 0 0 -0 1
+scale = 1 1 1
+rotation = -0 0 0
+position = 0 0 -0
+BoundingBoxCenter = -0.1831085681915283 4.349838376045227 0.8690118789672852 
+BoundingBoxHalf = 4.590028047561646 7.213745951652527 6.976526260375977 
+meshcount = 2
+material0 = hairGeekGirlScalp_mat %shadowCast
+material1 = hairGeekGirl_mat %shadowCast
+//Duration: ( 671866400 ns)
+// FBXConvert.exe Finished: Mon Nov 30 12:09:36 2015

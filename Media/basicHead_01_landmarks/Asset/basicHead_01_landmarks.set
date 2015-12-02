@@ -1,0 +1,58 @@
+// Created with FBXConvert.exe: Tue Sep 15 13:39:38 2015
+[node 0]
+type = null
+name = landmarks
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = 0 0 -0 1
+scale = 1 1 1
+rotation = -0 0 0
+position = 0 0 -0
+[node 1]
+type = null
+name = LANDMARK_CHIN
+parent = 0
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = -8.869997691363096e-005 -1.065745353698731 -4.462917327880859 1
+scale = 1 1 1
+rotation = -0 0 0
+position = -8.869997691363096e-005 -1.065745353698731 -4.462917327880859
+[node 2]
+type = null
+name = LANDMARK_NOSE_TIP
+parent = 0
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = -8.869997691363096e-005 2.879138946533203 -6.533912658691406 1
+scale = 1 1 1
+rotation = -0 0 0
+position = -8.869997691363096e-005 2.879138946533203 -6.533912658691406
+[node 3]
+type = null
+name = LANDMARK_EYE_LEFT_CENTER
+parent = 0
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = 1.375 4.966049194335938 -4.826 1
+scale = 1 1 1
+rotation = -0 0 0
+position = 1.375 4.966049194335938 -4.826
+[node 4]
+type = null
+name = LANDMARK_EYE_RIGHT_CENTER
+parent = 0
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = -1.374846458435059 4.966316223144531 -4.825649261474609 1
+scale = 1 1 1
+rotation = -0 0 0
+position = -1.374846458435059 4.966316223144531 -4.825649261474609
+//Duration: ( 20021100 ns)
+// FBXConvert.exe Finished: Tue Sep 15 13:39:38 2015

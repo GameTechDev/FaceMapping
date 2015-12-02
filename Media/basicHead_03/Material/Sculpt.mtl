@@ -1,0 +1,21 @@
+[material]
+
+cbPerModelValues = $cbPerModelValues
+cbPerFrameValues = $cbPerFrameValues
+
+DisplacementMap     = $FaceDisplacement
+Albedo              = $FaceColor
+ControlMap          = controlMap_RGB_01.dds
+SkinDetailMap       = Leather0064_2_L_BW.dds
+SkinFeatureMap		= skinVariant.dds
+ColorTransfer		= colorTransfer.dds
+
+VertexShaderFile    = SculptFace.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+
+PixelShaderFile     = SculptFace.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_5_0
+
+RenderStateFile     = SculptRenderStates.rs

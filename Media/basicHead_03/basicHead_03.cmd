@@ -1,0 +1,1 @@
+FBXConvert.exe -input:basicHead_03.fbx -outputdir:../CPUT 

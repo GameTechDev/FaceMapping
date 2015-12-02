@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\SampleStart.cpp" />
+    <ClCompile Include="..\..\windowsMain.cpp" />
+    <ClCompile Include="..\..\Menu\MenuGlob.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Menu\MenuController.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Menu\Menu_Scan.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ObjLoader.cpp" />
+    <ClCompile Include="..\..\Menu\Menu_FaceScanPreview.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GameFaceScan.cpp" />
+    <ClCompile Include="..\..\SampleUtil.cpp" />
+    <ClCompile Include="..\..\Menu\Menu_FaceMapping.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CFaceModel.cpp" />
+    <ClCompile Include="..\..\Menu\UVRemapUtils.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\SampleStart.h" />
+    <ClInclude Include="..\..\Menu\MenuBase.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Menu\MenuGlob.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Menu\MenuController.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Menu\Menu_Scan.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ObjLoader.h" />
+    <ClInclude Include="..\..\Menu\Menu_FaceScanPreview.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GameFaceScan.h" />
+    <ClInclude Include="..\..\SampleUtil.h" />
+    <ClInclude Include="..\..\Menu\Menu_FaceMapping.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CFaceModel.h" />
+    <ClInclude Include="..\..\Menu\UVRemapUtils.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{4dba4833-24cb-4ac4-9c89-db3375d8cdce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\Media\basicHead_03\Shader\FaceMapping.fx" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+// Created with FBXConvert.exe: Mon Sep 21 14:57:49 2015
+[node 0]
+type = model
+name = hair2
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = -0 1 -0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = 0 -0.06916393593253289 -0 1
+scale = 1 1 1
+rotation = -0 0 0
+position = 0 -0.06916393593253289 -0
+BoundingBoxCenter = -0.3296260833740252 5.5287961959839 1.76679491996765 
+BoundingBoxHalf = 9.084020614624025 9.477538108825701 6.88588070869446 
+meshcount = 1
+material0 = dx11Shader_hair %shadowCast
+//Duration: ( 221215300 ns)
+// FBXConvert.exe Finished: Mon Sep 21 14:57:49 2015

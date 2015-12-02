@@ -1,0 +1,1 @@
+FBXConvert.exe -input:basicHead_01_landmarks.fbx -outputdir:../CPUT 
