@@ -1,0 +1,9 @@
+﻿Build started 4/21/2017 2:13:34 PM.
+     1>Project "C:\Users\Marissa\Documents\GitHub\FaceMapping\facescan\build\vs2013\CPUTDX.vcxproj" on node 2 (Clean target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'c:\users\marissa\documents\github\facemapping\cput\build\intermediate\x32\debug_dx\v120\cputpostprocess.obj' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'c:\users\marissa\documents\github\facemapping\cput\build\intermediate\x32\debug_dx\v120\cputrenderstateblock.obj' because it is being used by another process.
+     1>Done Building Project "C:\Users\Marissa\Documents\GitHub\FaceMapping\facescan\build\vs2013\CPUTDX.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
